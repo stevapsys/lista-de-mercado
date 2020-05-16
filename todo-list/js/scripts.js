@@ -77,15 +77,3 @@ list.addEventListener('click', event => {
 
 
 
-
-//um array com vários objetos
-/*
-var array = [
-    {
-        atividade: "ir ao mercado"
-    },
-    {
-        atividade: "assistir netflix"
-    }
-]
-*/
